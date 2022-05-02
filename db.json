@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "article_title": "another title",
+      "article_text": "another text",
+      "id": 4
+    },
+    {
+      "article_title": "another title",
+      "article_text": "another text",
+      "id": 5
+    },
+    {
+      "article_title": "title",
+      "article_text": "text",
+      "id": 6
+    },
+    {
+      "article_title": "dsada",
+      "article_text": "sdadasd",
+      "id": 7
+    }
+  ]
+}
